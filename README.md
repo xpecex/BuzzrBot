@@ -9,7 +9,7 @@ var msg = prompt("Please enter your message", "You text");
 var time = prompt("Please enter time for next chat (seconds)", "10");
 function BuzzrBot(){
    if( msg == ''){
-      msg = "My Bitcoin address: 1HgkZtoVwvByRHe14jBnJ9fk5rqcCh9mdK --- create by xPeCex";
+      msg = "Hello World --- create by xPeCex";
    }
    if( time == ''){
       time = 5;
